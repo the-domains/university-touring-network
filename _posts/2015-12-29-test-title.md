@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: test post of a title/body/logo
-datePublished: '2015-12-29T16:24:25.617Z'
-dateModified: '2015-12-29T16:22:59.035Z'
+datePublished: '2015-12-29T16:26:22.427Z'
+dateModified: '2015-12-29T16:26:13.290Z'
 title: Test Title
 author: []
 authors: []
