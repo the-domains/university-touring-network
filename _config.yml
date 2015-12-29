@@ -1,0 +1,29 @@
+name: University Touring Network
+favicon: null
+layout_spectrum: 0.32168680685572326
+typography_spectrum: 0.4269922589883208
+title: University Touring Network
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-51468121-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4175579755101353
+  lightness: 0.1337831716518849
+  saturation: 0.5651503868866712
+  rhythmicContrast: 0.8363298506010324
+purpose: []
