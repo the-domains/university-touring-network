@@ -4,7 +4,7 @@
         <description><![CDATA[University Touring Network]]></description>
         <link>https://thegrid.ai/university-touring-network/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 12:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2016 12:58:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/university-touring-network/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/university-touring-network/test-title/index.html</link>
             <guid isPermaLink="false">f82c060f-30a0-4411-be0c-3d47b73684fd</guid>
             <pubDate>Tue, 29 Dec 2015 16:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://giphy.com/gifs/fun-summer-follow-back-9OGPqO73CHyta</p>]]></description>
-            <link>https://thegrid.ai/university-touring-network/15e9c9dc-351d-4134-9ac5-21f53f948e0d/index.html</link>
-            <guid isPermaLink="false">15e9c9dc-351d-4134-9ac5-21f53f948e0d</guid>
-            <pubDate>Fri, 01 Jan 2016 12:57:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
